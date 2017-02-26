@@ -1,0 +1,9 @@
+[package]
+name = "consume"
+version = "1.0.0"
+authors = ["Sam Schetterer <samschet@gmail.com>"]
+license = "MIT"
+description = "Memory order consume for when it's known that the compiler can't elide the dependency"
+readme = "Readme.md"
+keywords = ["memory", "concurrency", "lockless"]
+categories = ["data-structures", "algorithms", "concurrency"]
