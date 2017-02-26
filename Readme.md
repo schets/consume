@@ -2,7 +2,7 @@ This provides a consume ordering for when the compiler cannot elide the dependen
 
 # Examples
 
-```
+```rust
 extern crate consume;
 use std::sync::atomic::{AtomicPtr, AtomicUsize};
 
