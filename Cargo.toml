@@ -7,5 +7,4 @@ description = "Memory order consume for when it's known that the compiler can't 
 readme = "Readme.md"
 keywords = ["memory", "concurrency", "lockless"]
 categories = ["data-structures", "algorithms", "concurrency"]
-repository = "https://github.com/schets/consume",
-
+repository = "https://github.com/schets/consume"
